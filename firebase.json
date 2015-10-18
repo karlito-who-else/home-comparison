@@ -1,0 +1,9 @@
+{
+  "firebase": "home-comparison",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

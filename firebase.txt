@@ -1,0 +1,5 @@
+Client ID
+210185517561-ti72eg8m67v8c4khued6k7uqsqglst59.apps.googleusercontent.com
+
+Client Secret
+G2Wpt360KRY672ObdAsfVKer
